@@ -33,7 +33,7 @@
                 </ul>
             </div>
             <div class="nav-right-content">
-                <div class="icon-part">
+               {{--  <div class="icon-part">
                     <ul>
                         <li id="search"><a href="#"><i class="flaticon-search-1"></i></a></li>
                         @if(!empty(get_static_option('product_module_status')))
@@ -44,7 +44,7 @@
                             </li>
                         @endif
                     </ul>
-                </div>
+                </div> --}}
             </div>
         </div>
     </nav>

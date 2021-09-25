@@ -166,7 +166,7 @@
 <script src="{{asset('assets/frontend/js/jquery-migrate-3.1.0.min.js')}}"></script>
 <script src="{{asset('assets/frontend/js/bootstrap.bundle.min.js')}}"></script>
 
-@include('frontend.partials.twakto')
+{{-- @include('frontend.partials.twakto')
 <!--Start of Tawk.to Script-->
 <script>
     $(document).ready(function (){
@@ -197,7 +197,7 @@
         });
 
     });
-</script>
+</script> --}}
 
 
 </body>
